@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @gokulRajST
+- 👀 I’m interested in Software testing using automation tools. Currently my skills are Selenium (Java), worksoft certify.
+- 🏏 Sports I watch are Cricket and Formula 1
+- 🌱 I’m currently learning JavaScript, Playwright, Tosca
+- 📫 How to reach me - ✉️ gokulrajst.55@gmail.com
